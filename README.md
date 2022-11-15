@@ -2,17 +2,14 @@
 
 The repository consits of 4 files necessary for the case study. These are :
 
-**Python file consisting for the case study
-**
+Python file consisting for the case study
 
-**Assignment Subjective Questions [word file] 
-**
+Assignment Subjective Questions [word file] 
 
-**PowerPoint Presentation
-**
+PowerPoint Presentation
 
-**Summary[word file] 
-**
+
+Summary[word file] 
 
 To get the overview of the case study :
 
