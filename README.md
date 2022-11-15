@@ -11,8 +11,8 @@ PowerPoint Presentation
 
 Summary[word file] 
 
-To get the overview of the case study :
-
+**To get the overview of the case study :
+**
 _First : take a look at the python file and understand the logistic regression mode
 
 Second : The powerpoint presentation and the summary will give you a brief description of the case study
