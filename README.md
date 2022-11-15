@@ -12,7 +12,7 @@ Tables of Content:
 
 •	PowerPoint Presentation
 
-•	Summary [word file]
+•	Summary [pdf]
 
 Case study done by: 
 
