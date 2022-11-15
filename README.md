@@ -1,21 +1,21 @@
 # Lead_Scoring_Case_Study
 
-The repository consits of 4 files necessary for the case study. These are :
+The main goal behind building the case study:
 
-Python file consisting for the case study
+Have built a logistic regression model to assign a lead score between 0 and 100 to each of the leads which can be used by the company to target potential leads. A higher score would mean that the lead is hot, i.e. is most likely to convert whereas a lower score would mean that the lead is cold and will mostly not get converted
 
-Assignment Subjective Questions [word file] 
+Tables of Content: 
 
-PowerPoint Presentation
+•	Python file consisting for the case study
 
+•	Assignment Subjective Questions [word file]
 
-Summary[word file] 
+•	PowerPoint Presentation
 
-**To get the overview of the case study :
-**
+•	Summary [word file]
 
-_First : take a look at the python file and understand the logistic regression mode
+Case study done by: 
 
-Second : The powerpoint presentation and the summary will give you a brief description of the case study
-
-Third : The assignment subjective questions are answered looking at the python file/outcomes from the model_
+1)	Akshita Gupta
+2)	Kaivalya Kulkarni	
+3)	Ashish Yadav
