@@ -8,11 +8,11 @@ Tables of Content:
 
 •	Python file consisting for the case study
 
-•	Assignment Subjective Questions [pdf]
+•	Assignment Subjective Questions [word file]
 
 •	PowerPoint Presentation
 
-•	Summary [word file]
+•	Summary [pdf]
 
 Case study done by: 
 
